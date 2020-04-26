@@ -6,7 +6,7 @@ class Snake {
     this.x = 0;
     this.y = 0;
     this.length = 0;
-    this.image = loadImage('snake(2).png')
+    this.image = loadImage('snake (2).png')
   }
   
   setDir(x, y) {
